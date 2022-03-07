@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jacob</h1>
-<h3 align="center">A passionate frontend developer from the Netherlands</h3>
+<h3 align="center">A passionate developer from the Netherlands</h3>
 
-- 🔭 I’m currently working on a **school management system**
+- 🔭 I’m currently working on a **school management system**.
 
-- 💬 Ask me about **HTML, CSS, JavaScript, PHP, Laravel & Vue**
+- 💬 Ask me about **HTML, CSS, JavaScript, PHP, Laravel & Vue**.
 
-- 📫 How to reach me **jacobtimmer04@gmail.com**
+- 📫 How to reach me at **jacobtimmer04@gmail.com**.
 
 - ⚡ Fun fact **I love nature**
 
