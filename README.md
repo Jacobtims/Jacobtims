@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, PHP, Laravel & Vue**.
 
-- 📫 How to reach me at **jacobtimmer04@gmail.com**.
+- 📫 You can reach me at **jacobtimmer04@gmail.com**.
 
 - ⚡ Fun fact **I love nature**
 
